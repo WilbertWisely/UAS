@@ -1,0 +1,3 @@
+
+Budi,Jalan Ayam,0811900222,Superior,3
+Andi,Jalan Babi,091021,Standard,2
